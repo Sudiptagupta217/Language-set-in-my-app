@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">অ্যাপ্লিকেশন ভাষা পরিবর্তন</string>
     <string name="text">ওহে বিশ্ব!</string>
+
+    <string name="fill_form">ফর্ম পূরণ করুন</string>
+    <string name="first_name">প্রথম নাম:</string>
+    <string name="enter_your_first_name">আপনার প্রথম নাম লিখুন</string>
+    <string name="last_name">শেষ নাম:</string>
+    <string name="enter_your_last_name">আপনার শেষ নাম লিখুন</string>
+    <string name="phone_number">ফোন নম্বর:</string>
+    <string name="enter_your_phone_number">আপনার ফোন নম্বর লিখুন</string>
+    <string name="email">ই-মেইল:</string>
+    <string name="enter_your_email_id">আপনার ইমেল আইডি লিখুন</string>
+    <string name="submit">জমা দিন</string>
+
 </resources>

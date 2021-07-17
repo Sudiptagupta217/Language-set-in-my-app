@@ -1,4 +1,16 @@
 <resources>
     <string name="app_name">App language change</string>
     <string name="text">Hello World!</string>
+
+    <string name="fill_form">Fill The Form</string>
+    <string name="first_name">First Name:</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="last_name">Last Name:</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="phone_number">Phone Number:</string>
+    <string name="enter_your_phone_number">Enter Your Phone Number</string>
+    <string name="email">Email:</string>
+    <string name="enter_your_email_id">Enter Your Email Id</string>
+    <string name="submit">Submit</string>
+
 </resources>
